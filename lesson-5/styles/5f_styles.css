@@ -1,0 +1,9 @@
+p {
+    font-family: Arial;
+}
+
+.precio {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
