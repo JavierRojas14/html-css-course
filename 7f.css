@@ -1,0 +1,31 @@
+p {
+    font-size: 20px;
+}
+
+.caja-busqueda {
+    width: 460px;
+    border-width: 2px;
+    border-radius: 3px;
+    border-color: gray;
+
+
+}
+
+.boton {
+    background-color: rgb(0, 110, 255);
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 90px;
+    color: white;
+    font-size: 25px;
+    border-width: 0px;
+
+
+
+}
+
+.email {
+    font-size: 15px;
+}
