@@ -1,0 +1,65 @@
+p {
+    font-family: Arial;
+}
+
+button {
+    font-family: Arial;
+}
+
+.foto {
+    display: inline-block;
+    width: 1px;
+    height: auto;
+}
+
+.contenedor-flex-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    padding: 10px 60px;
+}
+
+.header-left-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-right-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    filter: invert();
+}
+
+.contact {
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+.button-submit {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border: 1px solid white;
+    border-radius: 5px;
+    flex: 3;
+
+}
+
+.button-sign-in {
+    background-color: #4C5FD5;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    flex: 1;
+}
+
+
+
