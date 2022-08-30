@@ -1,0 +1,30 @@
+.contenedor-global {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding: 0px 10px;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+.contenedor-elementos {
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+p {
+    font-family: Arial;
+    font-weight: bold;
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+
+.numero-notificaciones {
+    color: white;
+    background-color: rgb(93, 157, 230);
+    border-radius: 20px;
+    padding: 3px 9px;
+    font-size: 14px;
+}
